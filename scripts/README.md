@@ -1,10 +1,10 @@
-# 🛠️ Scripts Directory
+#  Scripts Directory
 
 This folder contains reusable Python modules that support the data preprocessing, EDA, and analysis workflows for the **"Predicting Price Moves with News Sentiment"** project.
 
 These scripts are imported across multiple notebooks in the `notebooks/` directory to avoid redundancy and promote clean, modular code.
 
-## 📄 Contents
+##  Contents
 
 ### 1. `news_utils.py`
 A utility module for handling news dataset operations and exploratory data analysis.
@@ -47,7 +47,7 @@ from scripts.news_utils import load_news_data
 ```
 
 
-## ⚠️ Notes
+##  Notes
 Dependencies: Make sure to install required libraries using requirements.txt (e.g., pandas, nltk, matplotlib).
 
 NLTK Setup: Some functions require downloading NLTK stopwords and tokenizers.
@@ -56,7 +56,7 @@ import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
 ```
-## 📁 Usage Context
+##  Usage Context
 These scripts are primarily used in:
 
 eda_news.ipynb — for news data exploration and visualization.
