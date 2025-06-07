@@ -1,8 +1,8 @@
-# 📓 Notebooks Directory
+#  Notebooks Directory
 
 This folder contains all the Jupyter notebooks used in the **"Predicting Price Moves with News Sentiment"** project. The notebooks are organized by functionality: EDA, sentiment correlation analysis, and quantitative technical analysis for individual tickers.
 
-## 📁 Contents
+##  Contents
 
 ### 1. `eda_news.ipynb`
 - **Purpose**: Performs exploratory data analysis (EDA) on raw analyst news data.
@@ -69,5 +69,5 @@ These notebooks apply traditional quantitative analysis techniques using technic
 
 ---
 
-### 📂 Parent Project Structure
+###  Parent Project Structure
 
